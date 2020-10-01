@@ -1,4 +1,4 @@
-module github.com/akhmanova/cachito-gomod-test
+module github.com/cachito-testing/cachito-gomod-with-deps
 
 go 1.14
 
